@@ -296,13 +296,7 @@ img {
 
 .portfolio-list-info {
     padding: 32px 16px;
-}
-
-.portfolio .list-info {
-    background-color: #fff;
-    border-left: 1px solid #e7e9fc;
-    border-right: 1px solid #e7e9fc;
-    border-bottom: 1px solid #e7e9fc;
+    border: 1px solid #e7e9fc;
 }
 
 /* footer */
