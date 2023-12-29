@@ -294,6 +294,10 @@ img {
     padding-bottom: 32px;
 }
 
+.portfolio-list-info {
+    padding: 32px 16px;
+}
+
 .portfolio .list-info {
     background-color: #fff;
     border-left: 1px solid #e7e9fc;
