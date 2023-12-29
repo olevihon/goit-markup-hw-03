@@ -91,8 +91,6 @@ img {
     border-bottom: 1px solid #e7e9fc;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-container {
@@ -123,6 +121,8 @@ img {
     line-height: calc(24 / 16);
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-nav-link:hover,
@@ -292,8 +292,6 @@ img {
 .list-info {
     padding-top: 32px;
     padding-bottom: 32px;
-    padding-left: 16px;
-    padding-right: 16px;
 }
 
 .portfolio .list-info {
