@@ -274,12 +274,14 @@ img {
     display: flex;
 }
 
-.features-list {
+.features-list,
+.team-list {
     gap: 24px;
 }
 
 .portfolio-list {
     flex-wrap: wrap;
+    column-gap: 24px;
     row-gap: 48px;
 }
 
